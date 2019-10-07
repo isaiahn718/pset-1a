@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-color: black;
     text-align: center;
@@ -7,7 +11,7 @@ p {
     color: white;
 
 }
-h1 {
+.section-header {
     color: white;
     font-weight: bold;
     text-decoration: underline;
@@ -17,14 +21,15 @@ h2 {
     color: white;
 
 }
-footer {
+.section-footer {
     color: white;
 
 }
-table {
+.section-table {
     color: white;
     align: center;
-
+    margin-left:auto;
+    margin-right:auto;
 }
 h3 {
     color: white;
