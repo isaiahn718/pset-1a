@@ -35,10 +35,6 @@ h2 {
     color: white;
 
 }
-h4 {
-    color: white;
-
-}
 h5 {
     color: white;
 
@@ -69,4 +65,8 @@ a[href="Phase3.html"] {
 }
 a[href="final.html"] {
     color:teal;
+}
+div h4{
+    color:white;
+    text-decoration:underline;
 }
