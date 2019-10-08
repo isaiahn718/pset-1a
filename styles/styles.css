@@ -66,6 +66,10 @@ a[href="Phase3.html"] {
 a[href="final.html"] {
     color:teal;
 }
+a{
+    color:teal;
+    text-decoration:underline;
+}
 div h4{
     color:white;
     text-decoration:underline;
