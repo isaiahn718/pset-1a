@@ -55,3 +55,12 @@ ul {
     color: white;
 
 }
+a[href="index.html"] {
+    color:white;
+}
+a[href="Phase1.html"] {
+    color:white;
+}
+a[href="Phase2.html"] {
+    color:white;
+}
