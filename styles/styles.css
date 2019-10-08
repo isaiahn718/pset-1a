@@ -31,7 +31,7 @@ h2 {
     margin-left:auto;
     margin-right:auto;
 }
-h3 {
+#header3 {
     color: white;
 
 }
@@ -43,11 +43,11 @@ h5 {
     color: white;
 
 }
-h6 {
+#header6 {
     color: white;
 
 }
-ol {
+#orderedlist {
     color: white;
 
 }
